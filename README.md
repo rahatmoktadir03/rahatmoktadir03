@@ -9,8 +9,11 @@
 
 ---
 
-I'm a Computer Science senior at **Queens College** passionate about building impactful applications. I thrive in blending **software engineering**, **AI**, and **creative design** to create powerful digital experiences.  
-Check out my **[personal site](https://www.rahatmoktadir.me)** for more about me!
+## 🚀 About Me  
+- 🎓 CS Senior at **Queens College**  
+- 💻 Passionate about **AI, full-stack development, and system design**  
+- 🌐 Check out my **[personal site](https://www.rahatmoktadir.me)**  
+- ⚡ Fun fact: I treat coding like basketball — **every bug is just defense I need to cross over.**
 
 ---
 

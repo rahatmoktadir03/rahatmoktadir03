@@ -9,8 +9,6 @@
 
 ---
 
-**`Software Engineer | Full-Stack Developer | AI Innovator`**
-
 I'm a Computer Science senior at **Queens College** passionate about building impactful applications. I thrive in blending **software engineering**, **AI**, and **creative design** to create powerful digital experiences.  
 Check out my **[personal site](https://www.rahatmoktadir.me)** for more about me!
 
